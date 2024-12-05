@@ -2,7 +2,7 @@
 
 The noresm2.3_dev_simulations repository is dedicated to **development of new cases for NorESM2.3** including for NorESM2.3 component models.
 
-The idea for this repository was stolen shamelessly from the [NCAR amwg_dev repo](https://github.com/NCAR/amwg_dev) and all the templating come from the [noresm3_dev_simulations repository](https://github.com/NorESMhub/noresm2.3_dev_simulations).
+The idea for this repository was stolen shamelessly from the [NCAR amwg_dev repo](https://github.com/NCAR/amwg_dev) and all the templating come from the [noresm3_dev_simulations repository](https://github.com/NorESMhub/noresm3_dev_simulations).
 
 ## To start a new development simulation, follow the Wiki instructions
 https://github.com/NorESMhub/noresm2.3_dev_simulations/wiki
